@@ -3,7 +3,7 @@ Repository to store the configuration files to run and dev code in VS code for T
 
 ## How to use on Windows 
 
-##¤ Download VS code 
+## Download VS code 
 https://code.visualstudio.com/
 
 - Create a folder under C:/programfiles and put the folder tdt4102.
